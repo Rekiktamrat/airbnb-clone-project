@@ -128,3 +128,18 @@ Key Security Measures:
 
 **Why Security Matters**
 Protects user data, prevents unauthorized access, and ensures secure handling of payments and personal information.
+
+
+## CI/CD Pipeline
+
+**Continuous Integration (CI):** Automatically tests and validates new code on every push or pull request.
+
+**Continuous Deployment (CD):** Automates deployment to production or staging environments after tests pass.
+
+**Tools Used**
+- **GitHub Actions** – Automates builds and tests.  
+- **Docker** – Ensures consistent environments.  
+- **Heroku / AWS** – Can be used for deploying the backend application.
+
+**Importance**
+CI/CD pipelines enhance reliability, speed up delivery, and minimize human errors during deployment.
