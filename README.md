@@ -219,3 +219,13 @@ Identifying design properties ensures a consistent and professional look across 
 | Product Owner | Define requirements and priorities |
 | Scrum Master | Facilitate team collaboration |
 
+
+
+
+## UI Component Patterns
+
+- **Navbar:** logo, search bar, user menu, responsive layout
+- **Property Card:** image, price, location, rating, favorite button
+- **Footer:** links, contact info, copyright
+
+
