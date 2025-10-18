@@ -143,3 +143,40 @@ Protects user data, prevents unauthorized access, and ensures secure handling of
 
 **Importance**
 CI/CD pipelines enhance reliability, speed up delivery, and minimize human errors during deployment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## UI/UX Design Planning
+
+### Design Goals
+- Create intuitive booking flow
+- Maintain visual consistency
+- Ensure fast loading times
+- Prioritize mobile responsiveness
+
+### Key Features
+- Property search and filtering
+- Detailed property view
+- Secure checkout process
+- User authentication
+
+| Page | Description |
+|------|--------------|
+| Property Listing View | Shows all listings in a grid with filters |
+| Listing Detailed View | Shows property details, images, reviews |
+| Simple Checkout View | Streamlined booking and payment page |
+
+### Importance
+A user-friendly design reduces booking friction and increases trust and satisfaction.
