@@ -201,3 +201,21 @@ A user-friendly design reduces booking friction and increases trust and satisfac
 
 **Why this matters:**
 Identifying design properties ensures a consistent and professional look across the app.
+
+
+
+
+
+## Project Roles and Responsibilities
+
+| Role | Responsibilities |
+|------|------------------|
+| Project Manager | Oversees timeline and deliverables |
+| Frontend Developers | Build UI, ensure responsive design |
+| Backend Developers | Build APIs and manage the database |
+| Designers | Create mockups and ensure UX consistency |
+| QA/Testers | Test features and report bugs |
+| DevOps Engineers | Handle deployment and CI/CD |
+| Product Owner | Define requirements and priorities |
+| Scrum Master | Facilitate team collaboration |
+
