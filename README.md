@@ -180,3 +180,24 @@ CI/CD pipelines enhance reliability, speed up delivery, and minimize human error
 
 ### Importance
 A user-friendly design reduces booking friction and increases trust and satisfaction.
+
+
+
+
+
+### Figma Design Specifications
+
+**Colors**
+- Primary: #FF5A5F
+- Secondary: #008489
+- Background: #FFFFFF
+- Text: #222222
+- Secondary Text: #717171
+
+**Typography**
+- Primary Font: Circular, Medium (500), 16px
+- Headings: Circular, Bold (700), 24px–32px
+- Secondary Text: Circular, Book (400), 14px
+
+**Why this matters:**
+Identifying design properties ensures a consistent and professional look across the app.
